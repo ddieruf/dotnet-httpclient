@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-httpclient", "dotnet-httpclient\dotnet-httpclient.csproj", "{46209674-AB3F-4DC2-A6AA-8D0530AC3B03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-httpclient.test", "dotnet-httpclient.test\dotnet-httpclient.test.csproj", "{4D19A55A-52BF-4691-92F6-344930A4C24B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{89E91986-A33F-47CD-ABB9-02DCDEA772E6}"
+ProjectSection(SolutionItems) = preProject
+	README.md = README.md
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46209674-AB3F-4DC2-A6AA-8D0530AC3B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46209674-AB3F-4DC2-A6AA-8D0530AC3B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46209674-AB3F-4DC2-A6AA-8D0530AC3B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46209674-AB3F-4DC2-A6AA-8D0530AC3B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D19A55A-52BF-4691-92F6-344930A4C24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D19A55A-52BF-4691-92F6-344930A4C24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D19A55A-52BF-4691-92F6-344930A4C24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D19A55A-52BF-4691-92F6-344930A4C24B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
